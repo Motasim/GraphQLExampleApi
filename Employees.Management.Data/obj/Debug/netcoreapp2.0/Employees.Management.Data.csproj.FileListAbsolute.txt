@@ -1,0 +1,13 @@
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\bin\Debug\netcoreapp2.0\Employees.Management.Data.deps.json
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\bin\Debug\netcoreapp2.0\Employees.Management.Data.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\obj\Debug\netcoreapp2.0\Employees.Management.Data.csprojResolveAssemblyReference.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\obj\Debug\netcoreapp2.0\Employees.Management.Data.csproj.CoreCompileInputs.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\obj\Debug\netcoreapp2.0\Employees.Management.Data.AssemblyInfoInputs.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\obj\Debug\netcoreapp2.0\Employees.Management.Data.AssemblyInfo.cs
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\bin\Debug\netcoreapp2.0\Employees.Management.Models.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\bin\Debug\netcoreapp2.0\Employees.Management.Data.pdb
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\bin\Debug\netcoreapp2.0\Employees.Management.Models.pdb
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\obj\Debug\netcoreapp2.0\Employees.Management.Data.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\obj\Debug\netcoreapp2.0\Employees.Management.Data.pdb
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\bin\Debug\netcoreapp2.0\Employees.Management.Data.runtimeconfig.json
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Data\bin\Debug\netcoreapp2.0\Employees.Management.Data.runtimeconfig.dev.json

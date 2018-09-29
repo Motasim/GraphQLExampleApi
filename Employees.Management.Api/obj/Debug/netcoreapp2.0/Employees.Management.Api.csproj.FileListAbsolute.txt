@@ -1,0 +1,15 @@
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Api.deps.json
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Api.runtimeconfig.json
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Api.runtimeconfig.dev.json
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Api.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Api.pdb
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\obj\Debug\netcoreapp2.0\Employees.Management.Api.csprojResolveAssemblyReference.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\obj\Debug\netcoreapp2.0\Employees.Management.Api.csproj.CoreCompileInputs.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\obj\Debug\netcoreapp2.0\Employees.Management.Api.AssemblyInfoInputs.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\obj\Debug\netcoreapp2.0\Employees.Management.Api.AssemblyInfo.cs
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\obj\Debug\netcoreapp2.0\Employees.Management.Api.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\obj\Debug\netcoreapp2.0\Employees.Management.Api.pdb
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Data.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Models.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Data.pdb
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Api\bin\Debug\netcoreapp2.0\Employees.Management.Models.pdb

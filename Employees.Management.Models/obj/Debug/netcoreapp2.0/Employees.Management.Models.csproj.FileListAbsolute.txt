@@ -1,0 +1,9 @@
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\bin\Debug\netcoreapp2.0\Employees.Management.Models.deps.json
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\bin\Debug\netcoreapp2.0\Employees.Management.Models.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\bin\Debug\netcoreapp2.0\Employees.Management.Models.pdb
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\obj\Debug\netcoreapp2.0\Employees.Management.Models.csprojResolveAssemblyReference.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\obj\Debug\netcoreapp2.0\Employees.Management.Models.csproj.CoreCompileInputs.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\obj\Debug\netcoreapp2.0\Employees.Management.Models.AssemblyInfoInputs.cache
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\obj\Debug\netcoreapp2.0\Employees.Management.Models.AssemblyInfo.cs
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\obj\Debug\netcoreapp2.0\Employees.Management.Models.dll
+C:\Users\Motasim\source\repos\Employees.Management\Employees.Management.Models\obj\Debug\netcoreapp2.0\Employees.Management.Models.pdb
